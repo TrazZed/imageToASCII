@@ -16,7 +16,7 @@ def asciiConvert(image, type, saveas, scale):
     w,h = img.size
 
 def main():
-    print("OK")
+    print("test")
 
 
 if __name__ == "__main__":
