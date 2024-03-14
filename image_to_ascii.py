@@ -53,7 +53,7 @@ def asciiConvert(image, type, saveas, scale):
     art.close()
 
 def main():
-    asciiConvert("smolmewithaward.jpg", "jpg", "cursed.txt", "3")
+    asciiConvert("smolmewithaward.jpg", "jpg", "cursed.txt", "6")
 
 if __name__ == "__main__":
     main()
